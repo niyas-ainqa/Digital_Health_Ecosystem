@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AINQA-Logo.jpeg" alt="AINQA Healthcare Logo" width="280"/>
+  <img src="./AINQA-Logo.jpeg" alt="AINQA Healthcare Logo" width="280"/>
 </p>
 
 <br/>
