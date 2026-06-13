@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="AINQA-Logo.jpeg" alt="AINQA Healthcare Logo" width="280"/>
+</p>
+
+<br/>
+
 # Greenfield Country Digital Health Transformation Blueprint
 
 This document presents a greenfield national digital health transformation blueprint for a country-wide ecosystem built around interoperable digital health services, national registries, strong governance, phased execution, and a balanced architecture for both clinical and financial data. The design aligns with current digital health transformation thinking that emphasizes sovereign architecture, open standards, reusable digital public infrastructure, and staged national rollout.[cite:17][cite:26][cite:29]
@@ -647,3 +653,14 @@ This sequence creates early legitimacy, reduces architectural rework, and ensure
 The blueprint should be delivered through a product operating model with national architecture ownership, phased procurement, conformance testing, and a service management function that survives beyond implementation projects. Procurement lots should be aligned to capabilities such as identity, HIE, clinical repository, imaging, registries, claims, portal, telehealth, and analytics so the country can preserve modularity while still enforcing one national target architecture.[cite:17][cite:23][cite:29]
 
 The strongest early indicators of success are not only software go-live milestones but measurable trust and outcome indicators: identity match quality, provider onboarding speed, API conformance rates, image retrieval interoperability, telemedicine utilization, claims turnaround time, payment accuracy, care-gap closure, and regulator visibility into operational performance. These measures create a practical bridge between digital transformation goals and health system accountability.[cite:18][cite:24][cite:27][cite:29]
+
+---
+
+<br/>
+
+<p align="center">
+  <img src="AINQA-Logo.jpeg" alt="AINQA Healthcare" width="120"/>
+  <br/><br/>
+  <sub>© 2026 <strong>AINQA Healthcare</strong>. All rights reserved.<br/>
+  This document is confidential and intended solely for authorised use. Reproduction or distribution without prior written consent of AINQA Healthcare is strictly prohibited.</sub>
+</p>
